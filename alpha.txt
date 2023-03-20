@@ -1,1 +1,25 @@
-r beta,gamma
+pwd : home directory
+cd foldername  : enter a particular folder
+mkdir          :make directory
+git config --list   : gives username & user email
+git config --global user.name <***>
+git config --global user.email <***>
+git init : it initialise the repository
+touch <filename.txt> : for create a txt file
+notepad <filename.txt> : to update the txt file
+git status
+
+git add .
+git status
+git commit -m "***" 
+git log
+
+git remote add origin <ssh link from git hub code section>
+git remote -v
+git push -u origin master
+
+
+
+
+
+
